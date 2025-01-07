@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+KUWIN – Vua Trò Chơi Đổi Thưởng Số 1 Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`KUWIN <https://kuwin.forex/>`_ ra mắt năm 2013, đã nhanh chóng khẳng định vị thế hàng đầu trong lĩnh vực chơi game trực tuyến tại Châu Á nhờ tỷ lệ trả thưởng hấp dẫn và kho trò chơi đa dạng. Được cấp phép bởi tổ chức PAGCOR và khu kinh tế Isle of Man, với trụ sở tại Manila, Philippines, KUWIN thuộc tập đoàn Malta Gaming Authority danh tiếng. Đạt mốc 10 triệu hội viên trong thời gian ngắn, KUWIN cung cấp các sảnh game hấp dẫn như đá gà, nổ hũ, bắn cá, game bài, casino, thể thao, và xổ số, mang đến trải nghiệm giải trí đỉnh cao và đáng tin cậy.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 36/5 Đ. Lô Tư, Bình Hưng Hoà A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0723265011. 
 
-Contents
---------
+Email: info@kuwin.forex. 
 
-.. toctree::
+Website: https://kuwin.forex/ 
 
-   usage
-   api
+#kuwin #trangchukuwin #dangkykuwin #dangnhapkuwin #linkkuwin
